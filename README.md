@@ -6,4 +6,4 @@ test Repository
 		
 		rarara~
 
-テスト用です。
+テストkaihatu用です。
